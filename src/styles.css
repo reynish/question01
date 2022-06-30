@@ -1,0 +1,17 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  font-family: sans-serif;
+}
+.box {
+  display: grid-row;
+  place-items: center;
+}
+
+label {
+  margin-right: 0.8rem;
+}
